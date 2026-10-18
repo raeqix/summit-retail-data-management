@@ -63,8 +63,7 @@ Overview of record counts, duplicates, revenue, and records requiring manual rev
 - Reporting & Documentation
 
 ## Project File
-[Download the Excel Workbook](Summit_Retail_Data_Management.xlsx)
-
+[Download the Excel Workbook](https://github.com/raeqix/summit-retail-data-management/raw/refs/heads/main/Summit_Retail_Data_Management.xlsx)
 ## Portfolio
 Developed as part of the RAEQIX technology portfolio.
 
